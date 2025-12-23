@@ -12,8 +12,9 @@
         user-friendly web applications with clean, efficient code.
       </p>
       <div class="flex gap-4">
-        <a href="#contact" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
-          Get In Touch
+
+        <a href="https://drive.google.com/file/d/1zG2IrCXvYVn9QMP7Km-YBiExbWqByW0i/view?usp=drive_link" class="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition">
+          Download CV
         </a>
         <a href="#projects" class="border border-gray-300 px-6 py-3 rounded-lg hover:border-blue-600 transition">
           View Work
