@@ -32,20 +32,26 @@ export default {
     return {
       projects: [
         {
-          title: "Project One: Service Friend",
+          title: "Project One: Weather Application",
+          description: "A web application to demonstrate weather of different popular cities",
+          tags: ["NodeJS", "MongoDB", "Tailwind CSS"],
+          link: "https://weatherapp-rust-nine.vercel.app/"
+        },
+        {
+          title: "Project Two: Service Friend",
           description: "A web-based platform that bridges the gap between local service seekers and providers    through a centralized and intuitive system.",
           tags: ["NodeJS", "MongoDB", "Tailwind CSS"],
           link: "https://servicefriend.vercel.app/"
         },
         {
-          title: "Project Two: Quote Generator",
+          title: "Project Three: Quote Generator",
           description: "A web application built to generate in-built quotes.",
           tags: ["Vue.js"],
           link: "https://quote-generator-kappa-two.vercel.app/"
           
         },
         {
-          title: "Project Three: Ecommerce clone",
+          title: "Project Four: Ecommerce clone",
           description: "Developed a fully responsive e-commerce homepage using HTML, CSS, and Font Awesome to replicate modern online shopping UI patterns.",
           tags: ["CSS", "JavaScript", "Figma"],
           link: "https://ecommerce-nu-blond.vercel.app/"
